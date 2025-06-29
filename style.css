@@ -1,0 +1,3 @@
+function subscribe() {
+  window.open("https://www.youtube.com/@YOUR_CHANNEL_USERNAME", "_blank");
+}
